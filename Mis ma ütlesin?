@@ -1,0 +1,24 @@
+<!Doctype html>
+<html>
+<title>Teen ise veebisaiti!</title>
+<body>
+
+<style>
+body {
+	bacground-color: pink;
+}
+h1 {
+	color: darkblue;
+	text-align: center;
+}
+h2 {
+	color: red;
+	text-align:center;
+</style>
+</head>
+<body>
+<h1>Ma ju ütlesin et ära sinna vajuta</h1>
+<h1><a href="https://palosonahti.github.io/homepage/index.htm> Mine nüüd sinna tagasi!</a>
+
+</body>
+</html>
