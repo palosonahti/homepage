@@ -1,0 +1,50 @@
+<!Doctype html>
+<html>
+<title>Teen ise veebisaiti!</title>
+<body>
+
+<style>
+body {
+	bacground-color: pink;
+}
+
+h1 {
+	color: darkblue;
+	text-align: center;
+
+}
+
+h2 {
+	color: red;
+	text-align:center;
+
+</style>
+</head>
+<body>
+<h1>Minu elu teine veebileht (esimesest ei taha rääkida!)</h1>
+
+<h1>Ahti Paloson</h1>
+<h2>Matrikli nr: 195970TAF</h2>
+
+
+<button>Ära siia vajuta!</button>
+
+
+</p>
+<p>Ah et millega ma tegelen?<br>
+Kui just parajasti tööl ei ole siis õpin huviavaid teemasid <a href="https://www.ttu.ee">TalTech</a>-s
+või mängin sõpradega disc golfi.<br>
+Sa küsid kus seda põnevat mängu mängida saab? Vaata omale lähim rada <a href="https://www.discgolfirajad.ee">discgolfirajad.ee</a> lehelt
+ning anna minna.<br>
+Kettaid saad soetada igast suuremast kaubanduskeskusest, kuid kindlasti parima valiku leiad proffesionaalide käest 
+<a href="https://www.cdg.ee">Chilli</a> või <a href="https://www.discland.ee">Discland</a> esindustest.</p>
+<p><b> Ketta näidis:</b><br>
+<img scr="https://www.dynamicdiscs.com/v/vspfiles/photos/2581-2.jpg" width="500" height="500"></p
+<p>Ketas võssa!</p>
+
+<p>Kui esimest ei lugenud siis teist loe ikka :)</p>
+
+</body>
+</html>
+	
+	
